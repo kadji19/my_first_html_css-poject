@@ -1,0 +1,198 @@
+header{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.fst{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 6px;
+}
+.snd{
+    background-color:rgb(25, 25, 46);
+    height: 8vh;
+}
+.logo{
+    width: 110px;;
+}
+.img{
+    width: 20px;
+}
+.local{
+    text-decoration: none;
+    color: white;
+    margin-top: 4px;
+}
+.local:hover{
+    border-radius: 2px ;
+    border: 1px solid white;
+    padding: 5px;
+}
+.image{
+    width: 35px;
+}
+input{
+    height: 8vh;
+}
+.li{
+    list-style: none;
+    display: flex;
+    color: white;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+.element5{
+    color: white;
+    text-decoration: none;
+}
+.element5:hover{
+    border-radius: 2px ;
+    border: 1px solid white;
+    padding: 5px;
+}
+#ul{
+    width: 40%;
+}
+#block1{
+    background-color: rgb(238, 246, 252);
+    height: 375vh;
+}
+.element{
+    width: 100%;
+}
+
+.container{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 0%;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 3vh;
+
+}
+article{
+    width: 20%;
+    height: 70vh;
+    border: 5px solid white;
+    padding: 5px;
+    background-color: white;
+
+}
+.element1{
+width: 250px;
+height: 50vh;
+margin-left:0%;
+}
+h3{
+    font-weight:bolder;
+    font-size: 20px;
+}
+.element2{
+    text-decoration: none;
+    color: darkcyan;
+}
+.element2:hover{
+    color: chocolate;
+    text-decoration: underline;
+}
+#block{
+    width: 98%;
+    height: 30vh;
+    background-color: white;
+    margin-top: 2%;
+    border: 5px solid white;
+    margin-left: 1%;
+    margin-bottom: 2%;
+}
+.element3{
+    margin-top: 1vh;
+    margin-left: 2px;
+    width: 200px;
+    height: 28vh;
+
+
+}
+.trd{
+    background-color:white;
+    width: 97.5%;
+    height: 30vh;
+    text-align: center;
+    padding: 8px;
+    margin-top: 2%;
+    position: absolute;
+    top: 391vh;
+
+}
+.p{
+    margin-top: 5%;
+    padding: 20px;
+    border-top: 1px solid rgb(172, 168, 163);
+    border-bottom: 1px solid rgb(172, 168, 163);
+    border-radius: 5px;
+}
+button{
+    width: 20%;
+    padding: 5px;
+    background-color:rgb(255, 191, 0);
+    border: 1px solid orangered;
+    border-radius: 5px;
+}
+.element4{
+    text-decoration: none;
+    color:cadetblue ;
+}
+.element4:hover{
+    color: coral;
+}
+footer{
+    position: absolute;
+    top: 427.5vh;
+    display: flex;
+    flex-direction: column;
+    width: 203vh;
+}
+.snd1{
+    background-color: rgb(24, 24, 40);
+    width: 203vh;
+    height: 7vh;
+    text-align: center;
+
+}
+.snd1:hover{
+    opacity: 0.7;
+}
+
+.fst1{
+color: white;
+text-decoration: none;
+
+}
+.abc{
+    background-color: rgb(27, 27, 61);
+    height: 50vh;
+}
+.jeg{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.liste{
+    list-style: none;
+}
+.car{
+    margin-top: 2%;
+    border-top: 1px solid white;
+}
+.khk{
+    text-decoration: none;
+    color: rgb(178, 190, 190);
+
+}
